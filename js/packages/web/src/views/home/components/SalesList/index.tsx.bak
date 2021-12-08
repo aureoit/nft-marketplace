@@ -37,7 +37,7 @@ export const SalesListView = () => {
   return (
     <>
       <Banner
-        src="/pexels-banner.jpg"
+        src="/main-banner.svg"
         headingText="The amazing world of Aureo NFT."
         subHeadingText="Buy exclusive Aureo NFTs."
         actionComponent={<HowToBuyModal buttonClassName="secondary-btn" />}
